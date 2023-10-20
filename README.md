@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zidane Cruz
-- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, AI  and Automation
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science, Web Development, AI and Automation
 - 🌱 I’m currently pursuing my bachelor's degree in computer science engineering with a specialization in artificial intelligence and machine learning
 - 💞️ I’m looking to collaborate with multidisciplinary teams including data scientists, engineers, and domain experts to create holistic solutions that address both technical and business challenges
 - 📫 How to reach me
