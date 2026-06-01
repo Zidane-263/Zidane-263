@@ -37,11 +37,7 @@
 # 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter,git,github,linux,vscode,docker&perline=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidane-263&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter,git,github,linux,vscode,docker&perline=7" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -49,9 +45,12 @@
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zidane-263&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zidane-263&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Zidane-263&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Zidane-263&theme=tokyonight&hide_border=true" />
+<p align="center">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidane-263&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
@@ -69,7 +68,7 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zidane-263&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zidane-263&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity" />
 </p>
 
 ---
@@ -86,11 +85,11 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/zidane-cruz-69b0b1248">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-
+  &nbsp;&nbsp;
   <a href="https://github.com/Zidane-263">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
 
