@@ -1,4 +1,3 @@
-```markdown
 <!-- HEADER BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Zidane%20Cruz&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20Deep%20Learning&descAlignY=58&descSize=20" />
@@ -101,4 +100,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer" />
 </p>
-```
