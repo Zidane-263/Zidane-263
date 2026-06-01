@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI+systems+%F0%9F%A4%96;GAN+%7C+Deep+Learning+%7C+Computer+Vision;Open+to+internships+%26+collaborations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+AI+systems+%F0%9F%A4%96;GAN+%7C+Deep+Learning+%7C+Computer+Vision;Open+to+Job +%26+collaborations" alt="Typing SVG" />
 </p>
 
 <!-- PROFILE VIEWS + SOCIAL -->
