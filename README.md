@@ -40,6 +40,10 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,numpy,pandas,opencv,jupyter,git,github,linux,vscode,docker&perline=7" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidane-263&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
 ---
 
 # 📊 GitHub Stats
@@ -48,10 +52,6 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Zidane-263&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
   <img width="48%" src="https://streak-stats.demolab.com/?user=Zidane-263&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidane-263&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
