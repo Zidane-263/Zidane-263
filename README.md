@@ -55,7 +55,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [🎭 MaskOff GAN](https://github.com/Zidane-263/Mask-Off-GAN-Face-Mask-Removal-using-Generative-Adversarial-Networks) | Face mask removal using conditional GANs | TensorFlow, OpenCV |
-| [📊 Cradle Metrics v2.1](https://github.com/Zidane-263/Cradle-Metrics-Version-2.1) | Infant health analytics system | Python, Pandas |
+| [📊 Cradle Metrics v2.1](https://github.com/Zidane-263/Cradle-Metrics-Version-2.1) | Infant health analytics system | Python,Pytorch, OpenCV|
 
 ---
 
